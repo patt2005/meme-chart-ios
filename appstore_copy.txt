@@ -1,0 +1,45 @@
+APP STORE COPY — MEME CHART
+============================
+
+
+DESCRIPTION
+-----------
+Track every meme coin that matters — in real time.
+
+Meme Chart is the fastest way to follow the meme coin market. Whether you're watching the biggest gainers, spotting early movers, or keeping tabs on your favorites, everything you need is one tap away.
+
+REAL-TIME PRICES & RANKINGS
+Browse live rankings across five categories: Gainers, Losers, Trending, Most Visited, and New Listings. Switch between 1-hour, 24-hour, and 7-day views to see exactly what's moving and why.
+
+INTERACTIVE PRICE CHARTS
+Tap any coin to see a full price chart. Scrub the chart with your finger to explore price history across five time ranges — 1H, 1D, 7D, 1M, and 1Y. The chart highlights the high and low for the range, and shifts green or red based on direction.
+
+FEAR & GREED INDEX
+Know the mood of the market before you make a move. The built-in Crypto Fear & Greed Index gives you a live sentiment score from 0 to 100, so you always know whether the crowd is panicking or euphoric.
+
+WATCHLIST
+Star any coin to add it to your personal watchlist. Your picks are saved on-device — no account, no sign-up required.
+
+SEARCH
+Find any coin instantly by name, ticker, or contract address — including DEX tokens.
+
+FULL MARKET STATS
+Every coin detail page shows market cap, 24-hour volume, circulating supply, all-time high, all-time low, and more.
+
+No ads. No account. Just the data.
+
+
+SUBTITLE (max 30 characters)
+-----------------------------
+Meme Coin Prices & Charts
+
+
+KEYWORDS (max 100 characters)
+------------------------------
+meme coin,crypto tracker,coin chart,defi,altcoin,gainers,fear greed,watchlist,token price
+
+
+NOTES
+-----
+- Don't repeat words from the app name/subtitle in the keywords field — Apple already indexes those.
+- Consider swapping keyword slots for: crypto market, solana, memecoin, portfolio — depending on competitor rankings.

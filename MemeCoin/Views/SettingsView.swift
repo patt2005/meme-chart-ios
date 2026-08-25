@@ -214,11 +214,11 @@ struct SettingsView: View {
         VStack(spacing: 0) {
             infoRow(label: "Version", value: "1.0.0")
             Divider().background(Color(white: 1, opacity: 0.06)).padding(.leading, 16)
-            linkRow(label: "Privacy Policy",  icon: "lock.shield",       url: "https://example.com/privacy")
+            linkRow(label: "Privacy Policy",  icon: "lock.shield",       url: "https://www.termsfeed.com/live/2d09dd99-77e0-4e29-8aed-96da3ba8561b")
             Divider().background(Color(white: 1, opacity: 0.06)).padding(.leading, 16)
-            linkRow(label: "Terms of Service", icon: "doc.text",         url: "https://example.com/terms")
+            linkRow(label: "Terms of Service", icon: "doc.text",         url: "https://www.termsfeed.com/live/9b77d74d-66c3-45d3-871e-b32d0548b682")
             Divider().background(Color(white: 1, opacity: 0.06)).padding(.leading, 16)
-            linkRow(label: "Contact Us",       icon: "envelope",         url: "mailto:support@memetracker.app", isLast: true)
+            linkRow(label: "Contact Us",       icon: "envelope",         url: "mailto:michaelwhitaker872@gmail.com", isLast: true)
         }
         .background(Color(white: 1, opacity: 0.04))
         .clipShape(RoundedRectangle(cornerRadius: 18))
